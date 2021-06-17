@@ -2,7 +2,7 @@
 - 👀 I’m interested in Blockchain
 - 🌱 I’m currently learning javascript and Blockchain technology
 - 💞️ I’m looking to collaborate on freelancing and projects
-- 📫 How to reach me through mail 
+- 📫 Reach me through mail 
 
 <!---
 AmritBhusal171303/AmritBhusal171303 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
